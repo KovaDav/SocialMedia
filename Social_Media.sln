@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social_Media", "Social_Media\Social_Media.csproj", "{F34D0C38-9E74-4114-B14A-444D03E5D5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F34D0C38-9E74-4114-B14A-444D03E5D5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F34D0C38-9E74-4114-B14A-444D03E5D5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F34D0C38-9E74-4114-B14A-444D03E5D5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F34D0C38-9E74-4114-B14A-444D03E5D5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
